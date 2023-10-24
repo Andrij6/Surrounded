@@ -1,0 +1,4 @@
+{
+    "game": {"clas": "", "oruzie": ["", "обычное"], "glava": [1, 1], "zombi": 1, "zombixy": [500, 500], "nocden": ["den"]},
+    "settings": {"difficulty":"0","autosave":"on","autosave_seconds":"1","language":"2","volume":"5"}
+}
